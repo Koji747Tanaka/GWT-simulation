@@ -1,0 +1,19 @@
+# Cache directories
+.cache/
+.huggingface/
+model_cache/
+
+# Virtual environment
+llama_env/
+
+# Output files (optional: include specific outputs if needed)
+output/
+fine-tuned-llama-lora/
+fine-tuned/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+*.pyc
+__pycache__/
