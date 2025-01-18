@@ -3,7 +3,7 @@ import torch
 
 def preprocess_qa(example):
     options = [
-        f"{label}: {text}" 
+        f"{label}: {text}," 
         for label, text in zip(example['choices']['label'], example['choices']['text'])
     ]
     options_text = " ".join(options)
@@ -13,7 +13,7 @@ def preprocess_qa(example):
         "text": (
             f"Question: {example['question']}. "
             f"Options: {options_text}. "
-            "Return only the letter corresponding to the correct answer: A, B, C, D, or E. Answer:"
+            "Return only the letter corresponding to the correct answer (A, B, C, D, or E). The answer is "
         ),
         "target_text": (
             example['answerKey']

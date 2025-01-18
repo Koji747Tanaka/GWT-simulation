@@ -10,6 +10,10 @@ llama_env/
 output/
 fine-tuned-llama-lora/
 fine-tuned/
+Python-3.10.13/
+python310/
+Python-3.1013.tgz/
+osloth/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/

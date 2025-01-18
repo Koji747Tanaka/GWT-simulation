@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "According to the Theory of Reasoned Action, what is subjective norm?",
+        "options": [
+            "A: Subjective norm is an individual\u2019s belief about the consequences of a particular behavior.",
+            "B: Subjective norm is a person's motivation to comply with the expectations of a specific group.",
+            "C: Subjective norm is the perceived social pressure to perform or not perform a specific behaviour.",
+            "D: Subjective norm is the internalized moral standards that guide a person's behavior."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "According to the Social Cognitive Theory, what is observational learning?",
+        "options": [
+            "A: Observational learning is learning by observing the behaviour of others and the outcomes of their behaviour.",
+            "B: Observational learning is the acquisition of skills through verbal instructions and mental practice.",
+            "C: Observational learning is the process of learning through trial and error without external influences.",
+            "D: Observational learning is learning by directly interacting with the environment and experiencing consequences."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "According to the Transtheoretical Model, what are some key strategies for promoting behaviour change in the action stage?",
+        "options": [
+            "A: Implementing immediate penalties for any undesirable behaviors",
+            "B: Focusing on raising awareness and increasing knowledge about the behavior",
+            "C: Encouraging self-reflection on past failures to motivate change",
+            "D: Key strategies for promoting behaviour change in the action stage include using positive reinforcement, rewarding small successes, and seeking social support."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "According to the Health Action Process Approach, why is it important to set specific goals?",
+        "options": [
+            "A: Setting specific goals decreases the likelihood of encountering obstacles during behavior change.",
+            "B: Setting specific goals allows for more frequent social interaction during the change process.",
+            "C: Setting specific goals increases general motivation by creating positive emotions.",
+            "D: Setting specific goals helps to clarify the desired behaviour change and provides a clear target to work towards."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "According to the Social Cognitive Theory, what is the role of self-monitoring in behaviour change?",
+        "options": [
+            "A: Self-monitoring is primarily about comparing one's behavior to societal norms and expectations to ensure conformity.",
+            "B: Self-monitoring is the unconscious adjustment of behaviors in response to the perceived judgments of others.",
+            "C: Self-monitoring involves tracking and recording one's own behaviour, which can increase awareness of current behaviour and progress towards goals.",
+            "D: Self-monitoring refers to the external observation and feedback from others, which guides one\u2019s modifications in behavior."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "According to the Health Belief Model, what is perceived threat of illness?",
+        "options": [
+            "A: Perceived threat of illness is a person's perception of the severity and susceptibility of a health condition.",
+            "B: Perceived threat of illness is an individual's emotional response to being diagnosed with a health condition.",
+            "C: Perceived threat of illness refers to an individual's confidence in their ability to perform a health-related behavior.",
+            "D: Perceived threat of illness is a person's understanding of the health services available to treat a condition."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "According to the Transtheoretical Model, what are some key strategies for promoting behaviour change in the maintenance stage?",
+        "options": [
+            "A: Focusing on raising awareness and increasing knowledge about the behavior",
+            "B: Engaging in significant self-evaluation and rethinking personal values",
+            "C: Key strategies for promoting behaviour change in the maintenance stage include avoiding complacency, adopting healthy behaviours into daily routine, and using intrinsic motivation.",
+            "D: Setting goals and developing action plans for new behaviors"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "According to the Health Action Process Approach, what is the difference between outcome expectancies and outcome values?",
+        "options": [
+            "A: Outcome expectancies reflect a person's beliefs about the consequences of performing a behaviour, while outcome values reflect the importance or worth of those consequences.",
+            "B: Outcome expectancies involve a person's confidence in performing a behavior, while outcome values involve the social approval gained from performing the behavior.",
+            "C: Outcome expectancies are about the likelihood of achieving a goal through a behavior, while outcome values concern the moral implications of the consequences.",
+            "D: Outcome expectancies refer to the effort a person believes is needed to perform a behavior, whereas outcome values refer to the personal satisfaction received from performing the behavior."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "According to the Theory of Planned Behaviour, how do attitudes impact behaviour?",
+        "options": [
+            "A: Attitudes determine behaviour by directly controlling a person\u2019s actions without conscious deliberation.",
+            "B: Attitudes impact behaviour by altering a person's mood, which then influences their decisions.",
+            "C: Attitudes influence behaviour by shaping a person's positive or negative evaluation of the behaviour.",
+            "D: Attitudes affect behaviour through the social norms and pressures perceived by the individual."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Please compare a research hypothesis and an empirical hypothesis.",
+        "options": [
+            "A: A research hypothesis is a broad statement of expected outcomes, while an empirical hypothesis is specifically formulated for statistical testing.",
+            "B: A research hypothesis is a testable statement about the relationship between variables, while an empirical hypothesis is based on direct observation or experimentation, and aims to explain a phenomenon.",
+            "C: A research hypothesis is always qualitative in nature, whereas an empirical hypothesis is quantitative and involves numerical data.",
+            "D: A research hypothesis is generally used in theoretical sciences, while an empirical hypothesis is used exclusively in applied sciences."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What are the potential drawbacks of using a comparative approach in psychology research?",
+        "options": [
+            "A: One of the drawbacks includes the high cost and difficulty in obtaining advanced technological equipment necessary to monitor and analyze different species' behaviors accurately.",
+            "B: Using a comparative approach in psychology research has potential drawbacks. One drawback is the complexity of interpreting behavior across different animal species. Differences in cognitive abilities, environmental factors, and genetic makeup can influence behavior, making comparisons and generalizations challenging. Another drawback is the potential influence of anthropomorphism, where human characteristics and emotions are falsely attributed to non-human animals. Researchers must be cautious and avoid projecting human experiences onto animals. Additionally, the use of animals in comparative psychology research raises ethical considerations. Researchers must ensure the well-being and ethical treatment of animals in their studies. There are also practical limitations, such as access to suitable research populations and the time-consuming nature of comparative research. Despite these drawbacks, comparative psychology provides valuable insights into behavior and cognition across species, contributing to our understanding of psychology.",
+            "C: Using a comparative approach often results in overly simplified data collection methods which may not capture the nuances of complex behaviors across different species.",
+            "D: Comparative approaches in psychology research are less accurate due to the inability to use quantitative methods, which limits the generalizability of findings."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What are some effective strategies for managing and reducing symptoms of eating disorders?",
+        "options": [
+            "A: Implementing a strict diet regimen without professional supervision to rapidly change eating habits.",
+            "B: Managing and reducing symptoms of eating disorders requires a comprehensive approach. Seeking professional help from a team of experts, including therapists, dietitians, and physicians specialized in eating disorders, is essential to develop an individualized treatment plan. This may include various evidence-based therapies, such as cognitive-behavioral therapy (CBT), dialectical behavior therapy (DBT), or family-based therapy (FBT).",
+            "C: Relying exclusively on medication prescribed by a general practitioner, without integrating psychological therapy.",
+            "D: Focusing solely on self-help books and online resources to avoid the stigma associated with professional treatment."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "When is conditions of worth most likely to impact an individual?",
+        "options": [
+            "A: Conditions of worth are generally experienced most intensely during late adulthood, as individuals face changes in their health and social roles.",
+            "B: Conditions of worth primarily impact individuals during their mid-career phase, as professional environments impose significant external standards and expectations.",
+            "C: Conditions of worth are most likely to impact an individual during their retirement years, as they reflect on life achievements and seek validation for their life choices.",
+            "D: Conditions of worth are most likely to impact an individual during their formative years, particularly in early childhood and adolescence. This is a period when individuals are highly influenced by the opinions and judgments of significant others, such as parents, teachers, or peers. During this time, individuals may internalize the conditions of worth imposed upon them, leading to a continual focus on seeking external validation and approval. The impact of conditions of worth can be long-lasting and may shape an individual's self-esteem, decision-making processes, and interpersonal relationships even into adulthood."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "When might an individual develop a strong reliance on conditions of worth?",
+        "options": [
+            "A: An individual might develop a strong reliance on conditions of worth when they are exposed to diverse social environments that offer varying perspectives on values and success, leading to confusion about self-worth.",
+            "B: An individual might develop a strong reliance on conditions of worth when they grow up in an environment where conditional love and acceptance are dominant. For example, if a child repeatedly experiences affection, praise, or rewards only when they achieve certain predetermined standards set by their parents or caregivers, they may internalize these conditions as the primary basis of their self-worth and strive to meet them continually. This reliance on conditions of worth can have a detrimental effect on the individual's psychological well-being, as it may lead to low self-esteem, chronic self-doubt, and difficulties with self-acceptance.",
+            "C: An individual might develop a strong reliance on conditions of worth if they are consistently praised and encouraged for their innate talents and personal attributes, fostering a sense of inherent self-worth.",
+            "D: An individual might develop a strong reliance on conditions of worth when they experience a lack of any feedback or recognition from their environment, leading them to set self-imposed standards for approval."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "When do conditions of worth begin to influence an individual's self-concept?",
+        "options": [
+            "A: Conditions of worth begin to influence an individual's self-concept during late adolescence when they start developing independent personal values.",
+            "B: Conditions of worth begin to influence an individual's self-concept after establishing significant romantic relationships in adulthood.",
+            "C: Conditions of worth begin to influence an individual's self-concept once they achieve professional success and recognition in their career.",
+            "D: Conditions of worth begin to influence an individual's self-concept when they internalize the values and expectations imposed upon them by significant others. This typically occurs during early childhood and continues throughout adolescence. The internalization of these conditions shapes an individual's self-concept by guiding their beliefs about what aspects of themselves are valued and worthy of acceptance. Consequently, an individual's self-concept becomes closely intertwined with their success in meeting these conditions, leading to the potential development of a fragile self-esteem and an overreliance on external validation."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "When might an individual experience incongruence in relation to conditions of worth?",
+        "options": [
+            "A: An individual might experience incongruence in relation to conditions of worth when they encounter situations or expectations that conflict with their authentic values and beliefs. This incongruence arises when an individual feels pressure to conform to conditions that are incongruent with their true self. For example, if an individual is passionate about pursuing a creative career but feels compelled to choose a more conventional and socially acceptable path due to external expectations, they may experience a significant discrepancy between their true self and their ideal self. This incongruence can lead to feelings of dissatisfaction, internal conflict, and a sense of being inauthentic.",
+            "B: An individual might experience incongruence in relation to conditions of worth when they achieve all the goals set by their peer group, leading to a high level of personal and professional satisfaction.",
+            "C: An individual might experience incongruence in relation to conditions of worth when they have a clear and consistent alignment between their personal goals and the expectations of their culture or society.",
+            "D: An individual might experience incongruence in relation to conditions of worth when they find themselves in a supportive environment that consistently validates their personal identity and beliefs."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "When might an individual with conditions of worth develop self-esteem issues?",
+        "options": [
+            "A: An individual with conditions of worth may develop self-esteem issues when they consistently exceed the expectations set by others, leading to a sense of isolation and disconnection.",
+            "B: An individual with conditions of worth may develop self-esteem issues when they are frequently praised for their achievements, causing them to feel overwhelmed and pressured to maintain high standards.",
+            "C: An individual with conditions of worth may develop self-esteem issues when they are unable to consistently meet the imposed standards required for receiving positive regard or acceptance. Since their self-worth becomes dependent on fulfilling external expectations, they may experience feelings of inadequacy, self-doubt, and worthlessness when they perceive themselves as falling short. This overreliance on others' evaluations can result in a fragile sense of self-esteem that is vulnerable to fluctuations based on external validation, contributing to psychological distress and various mental health problems.",
+            "D: An individual with conditions of worth may develop self-esteem issues when they receive too little feedback about their performance, leaving them uncertain about their abilities and worth."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "When might conditions of worth contribute to the development of an eating disorder?",
+        "options": [
+            "A: Conditions of worth might contribute to the development of an eating disorder when an individual excessively focuses on achieving a specific body image or weight requirement in order to receive positive regard and acceptance. This intense preoccupation with meeting external standards can lead to distorted eating behaviors, such as restrictive eating, excessive exercise, or purging, as the individual tries to conform to the imposed conditions of worth. Furthermore, the continuous pursuit of external validation and appearance-based self-worth can exacerbate body dissatisfaction, perpetuate disordered eating patterns, and contribute to the development or maintenance of an eating disorder.",
+            "B: Conditions of worth could contribute to an eating disorder when an individual experiences general stress about their performance in school or work, causing them to occasionally skip meals or overeat.",
+            "C: Conditions of worth may lead to an eating disorder when a person feels compelled to match the eating habits of their peers, leading to changes in diet but not necessarily to unhealthy behaviors or body image concerns.",
+            "D: Conditions of worth might contribute to the development of an eating disorder when an individual adopts a highly regimented diet to comply with societal norms about health and nutrition, even if it doesn't lead to extreme behaviors or psychological distress."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "When might an individual with conditions of worth be susceptible to anxiety disorders?",
+        "options": [
+            "A: An individual with conditions of worth may be susceptible to anxiety disorders when they constantly worry about meeting the imposed conditions and avoiding potential failure or rejection. Since their self-worth is heavily contingent on external validation, they may experience heightened levels of anxiety when faced with situations that challenge their ability to fulfill these expectations. The fear of falling short and experiencing disapproval or withdrawal of affection can lead to excessive worry, social anxiety, and generalized anxiety disorder. Therefore, the reliance on conditions of worth can significantly contribute to the development and maintenance of anxiety disorders.",
+            "B: An individual with conditions of worth may be susceptible to anxiety disorders when they feel completely autonomous and independent, believing their decisions carry no consequences.",
+            "C: An individual with conditions of worth may be susceptible to anxiety disorders primarily when they receive constant praise and affirmation, leading to overwhelming pressure to maintain high standards.",
+            "D: An individual with conditions of worth may be susceptible to anxiety disorders when they are in a relaxed and supportive environment that does not challenge their self-perceptions."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "When might an individual with conditions of worth be at risk for developing perfectionism?",
+        "options": [
+            "A: An individual with conditions of worth may be at risk for developing perfectionism when they experience a single failure that challenges their self-esteem, leading them to adopt perfectionistic behaviors to avoid future failures.",
+            "B: An individual with conditions of worth may be at risk for developing perfectionism when they are praised excessively for their achievements, which may cause them to associate their self-worth solely with success.",
+            "C: An individual with conditions of worth may be at risk for developing perfectionism when they internalize the expectation that their self-worth is contingent on achieving flawlessness and high standards. Since they constantly strive to meet these conditions in order to receive positive regard, they may develop perfectionistic tendencies. Perfectionism can manifest as a relentless pursuit of excellence, extreme self-criticism, and fear of failure. This need for perfection can be detrimental to mental health, leading to stress, anxiety, and self-esteem issues. Therefore, conditions of worth can contribute to the development of maladaptive perfectionism.",
+            "D: An individual with conditions of worth may be at risk for developing perfectionism when they face social rejection, prompting them to set exceedingly high standards for themselves as a way to gain acceptance."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "When might an individual with conditions of worth be susceptible to imposter syndrome?",
+        "options": [
+            "A: An individual with conditions of worth may be susceptible to imposter syndrome primarily during periods of low stress and minimal challenges, as they are not used to handling calm situations.",
+            "B: An individual with conditions of worth may be susceptible to imposter syndrome when they struggle to internalize their achievements and genuinely believe they are deserving of praise or success. Due to their reliance on external validation, they may dismiss their accomplishments as mere luck or the result of deceiving others. The fear of being exposed as a fraud and the belief that they are not truly capable can lead to feelings of inadequacy, self-doubt, and anxiety. The constant need to live up to external expectations can perpetuate imposter syndrome, hindering the individual's self-esteem and self-confidence.",
+            "C: An individual with conditions of worth may be susceptible to imposter syndrome when they are able to separate their self-worth from their achievements, resulting in a balanced self-perception that prevents feelings of fraudulence.",
+            "D: An individual with conditions of worth may be susceptible to imposter syndrome when they receive constant praise and validation from others, leading them to feel overly confident and self-assured."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "When might an individual with conditions of worth experience difficulties in forming authentic relationships?",
+        "options": [
+            "A: An individual with conditions of worth may experience difficulties in forming authentic relationships when their interactions are primarily shaped by their need for external validation. Since their self-worth is contingent on fulfilling external expectations, they may struggle to express their authentic selves and may engage in people-pleasing behaviors to gain acceptance. This can create superficial or inauthentic social connections, as the individual's focus is on meeting others' expectations rather than forming genuine and mutually fulfilling relationships. The reliance on conditions of worth can hinder the development of deep emotional connections and genuine self-expression.",
+            "B: An individual with conditions of worth may struggle in forming authentic relationships when they are overly confident and self-assured, leading them to dominate conversations and ignore others' feelings.",
+            "C: An individual with conditions of worth may experience difficulties in forming authentic relationships when they prioritize professional achievements over personal connections, leading to neglect of emotional bonding.",
+            "D: An individual with conditions of worth may face difficulties in forming authentic relationships when they have a high level of introversion, making it challenging for them to initiate social interactions."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "When might an individual with conditions of worth struggle with decision-making?",
+        "options": [
+            "A: An individual with conditions of worth may struggle with decision-making when their choices are primarily driven by meeting external expectations rather than following their true desires and values. Since their sense of self-worth is heavily dependent on external validation, they may experience difficulty in asserting their own needs and making decisions that align with their authentic self. This could lead to indecisiveness, fear of making mistakes, and an overall lack of fulfillment. Over time, the reliance on conditions of worth can hinder an individual's ability to make autonomous and self-fulfilling choices.",
+            "B: An individual with conditions of worth may struggle with decision-making when they have a high level of self-esteem and no need for external validation.",
+            "C: An individual with conditions of worth may struggle with decision-making primarily due to a lack of general knowledge or intellectual capacity.",
+            "D: An individual with conditions of worth may struggle with decision-making when they are fully aware of their authentic desires and values but choose to ignore them."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "When might an individual with conditions of worth experience a lack of fulfillment?",
+        "options": [
+            "A: An individual with conditions of worth may experience a lack of fulfillment when they focus solely on self-improvement without any external influences or pressures.",
+            "B: An individual with conditions of worth may experience a lack of fulfillment when their pursuit of external validation and meeting imposed standards fails to bring them true satisfaction and a sense of meaning in life. Since their self-worth is dependent on others' evaluations, they may constantly strive to achieve goals set by external expectations but find that these accomplishments do not genuinely fulfill them. This perpetual need for external validation can lead to a constant sense of emptiness and a lack of fulfillment, as their efforts primarily aim to satisfy conditions that may not align with their authentic desires and values.",
+            "C: An individual with conditions of worth may experience a lack of fulfillment when they achieve personal goals that align perfectly with their intrinsic values, leading to complacency.",
+            "D: An individual with conditions of worth may experience a lack of fulfillment when they consistently receive positive reinforcement and praise from their peers, leading to overconfidence."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "When might conditions of worth impact an individual's career choices?",
+        "options": [
+            "A: Conditions of worth might impact an individual's career choices when their decisions are heavily influenced by external standards of success and social expectations. Individuals with conditions of worth may prioritize careers that are seen as prestigious or valued by others, even if pursuing their true passions or interests would bring them more fulfillment. The reliance on conditions of worth can lead to career choices that are driven by a need for external validation, resulting in job dissatisfaction, lack of engagement, and a sense of being unfulfilled professionally.",
+            "B: Conditions of worth might impact an individual's career choices when they decide to pursue a career that offers the most opportunities for personal and professional development.",
+            "C: Conditions of worth might impact an individual's career choices when they are primarily focused on maximizing personal financial gain, regardless of the job's alignment with their values.",
+            "D: Conditions of worth might impact an individual's career choices when they choose careers that guarantee job security and stability, even if these are not in line with their personal interests."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "When might conditions of worth negatively impact an individual's well-being?",
+        "options": [
+            "A: Conditions of worth might negatively impact an individual's well-being when they ignore societal expectations completely, leading to isolation and social rejection.",
+            "B: Conditions of worth might negatively impact an individual's well-being when their self-worth is primarily contingent on fulfilling expectations imposed by others. Since they constantly strive to meet these conditions to gain acceptance and validation, their psychological well-being becomes reliant on external factors beyond their control. Consequently, they may experience chronic stress, anxiety, and low self-esteem, which can lead to various mental health problems, including depression, eating disorders, or anxiety disorders. The continuous pursuit of external validation often comes at the expense of their own needs and desires, further contributing to decreased overall well-being.",
+            "C: Conditions of worth might negatively impact an individual's well-being when they are able to meet all imposed expectations easily, causing them to feel undervalued and unchallenged.",
+            "D: Conditions of worth might negatively impact an individual's well-being when they primarily focus on self-improvement and personal growth, leading to an overwhelming pressure to succeed."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "When might conditions of worth impact an individual's ability to be authentic?",
+        "options": [
+            "A: Conditions of worth might impact an individual's ability to be authentic when they achieve high levels of self-esteem that shield them from societal pressures and expectations.",
+            "B: Conditions of worth might impact an individual's ability to be authentic when they develop a strong sense of personal independence, lessening their reliance on others' opinions and feedback.",
+            "C: Conditions of worth might impact an individual's ability to be authentic when they engage in frequent self-reflection, leading to an overemphasis on internal critique rather than external influences.",
+            "D: Conditions of worth might impact an individual's ability to be authentic when their self-worth becomes heavily reliant on external validation. They may prioritize meeting others' expectations over expressing their genuine thoughts, emotions, and values. This emphasis on external acceptance and conforming to imposed conditions can inhibit the individual from fully embracing and expressing their true selves. This lack of authenticity can lead to feelings of disconnection, identity confusion, and a sense of being inauthentic in their relationships and personal experiences. Overcoming this impact often involves developing self-acceptance and cultivating relationships that value and encourage authenticity."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is the role of the dorsolateral prefrontal cortex in executive functions?",
+        "options": [
+            "A: The dorsolateral prefrontal cortex is mainly responsible for sensory processing and the integration of sensory information from different modalities.",
+            "B: The dorsolateral prefrontal cortex focuses on the coordination of motor responses, determining the sequence and precision of physical movements.",
+            "C: The dorsolateral prefrontal cortex primarily manages emotional responses and mood regulation, influencing how we process feelings and emotional memories.",
+            "D: The dorsolateral prefrontal cortex (DLPFC) is a region of the prefrontal cortex involved in higher-level executive functions. It plays a crucial role in working memory, cognitive flexibility, attentional control, and decision making. The DLPFC helps us maintain and manipulate information in memory, switch between tasks or cognitive sets, inhibit unwanted responses, and plan and execute complex behaviors. Dysfunction or damage to the DLPFC can result in deficits in executive functions, such as difficulties with problem-solving, impulse control, and cognitive flexibility."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "How does body image relate to self-esteem?",
+        "options": [
+            "A: Body image and self-esteem are unrelated concepts in psychology, each developing independently of the other.",
+            "B: Self-esteem influences body image but not vice versa; people with high self-esteem always perceive their body positively.",
+            "C: Body image is solely determined by biological factors and does not affect self-esteem.",
+            "D: Body image refers to a person's perception and evaluation of their physical appearance, which can significantly impact self-esteem, especially in cultures that emphasize physical attractiveness."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Why is it important to have a multidisciplinary approach when studying and addressing adolescent development?",
+        "options": [
+            "A: A multidisciplinary approach to adolescent development is crucial primarily because it allows for a standardized method of treatment and intervention across different cultures and societies.",
+            "B: A multidisciplinary approach allows researchers to focus exclusively on the biological aspects of adolescent development, which are the most critical during this stage.",
+            "C: Using a multidisciplinary approach primarily saves time and resources in research by limiting the need for in-depth analysis and collaboration across different domains.",
+            "D: Having a multidisciplinary approach when studying and addressing adolescent development ensures a comprehensive and holistic understanding of this complex period. Adolescence encompasses social, emotional, cognitive, and physical changes, all of which require different areas of expertise to be fully understood. A multidisciplinary approach allows professionals from various fields, such as psychology, sociology, education, and medicine, to contribute their unique perspectives and knowledge. This collaboration facilitates a more comprehensive understanding of adolescent development and enables the formulation of effective strategies and interventions that address adolescents' diverse needs."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What does the social impact theory suggest?",
+        "options": [
+            "A: The social impact theory suggests that the only factor that significantly affects social influence is the socioeconomic status of the individuals involved.",
+            "B: The social impact theory suggests that individual influence is most effective when one person tries to influence a large group without any formal authority.",
+            "C: The social impact theory suggests that people's behavior is mainly influenced by their personal traits and long-term goals, rather than immediate social interactions.",
+            "D: The social impact theory suggests that the impact of influence exerted by others depends on three factors: strength, immediacy, and number."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "When was the humanistic theory developed?",
+        "options": [
+            "A: The humanistic theory emerged in the early 18th century.",
+            "B: The humanistic theory emerged in the early 19th century.",
+            "C: The humanistic theory emerged in the mid-20th century.",
+            "D: The humanistic theory emerged in the late 20th century."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is the potential role of self-reflection and self-exploration in addressing desire discrepancy and sexual dysfunctions?",
+        "options": [
+            "A: Self-reflection and self-exploration are generally not recommended in addressing desire discrepancy and sexual dysfunctions as they can exacerbate feelings of inadequacy and anxiety.",
+            "B: Self-reflection and self-exploration can lead to overthinking and confusion, which might further complicate desire discrepancy and sexual dysfunctions by distancing partners.",
+            "C: Self-reflection and self-exploration play a significant role in addressing desire discrepancy and sexual dysfunctions. By engaging in self-reflection, individuals can gain insights into their own desires, inhibitions, and beliefs about sex. This self-awareness enhances communication with their partner and promotes a deeper understanding of one's own needs and boundaries. Self-exploration involves exploring one's own body, fantasies, and preferences. It can help individuals overcome inhibitions and discover new ways to experience pleasure and intimacy. By engaging in self-reflection and self-exploration, individuals can take an active role in finding ways to address desire discrepancy and improve sexual satisfaction within the relationship.",
+            "D: Self-reflection and self-exploration primarily increase stress levels which can temporarily heighten sexual desire but may lead to long-term dysfunctions."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Can language shape the way we think?",
+        "options": [
+            "A: No, while language can affect emotions, it does not have any impact on cognitive processes or perceptions.",
+            "B: Yes, according to the theory of linguistic relativity, also known as Sapir-Whorf Hypothesis. This theory suggests the language we speak influences the way we perceive and experience the world. For example, different cultures might perceive colours differently due to linguistic variances.",
+            "C: No, cognitive processes are universal and identical across all languages and cultures.",
+            "D: No, language is only a tool for communication and does not influence thoughts or perceptions."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Does our linguistic environment influence our language development?",
+        "options": [
+            "A: No, only biological factors such as brain development influence our language development, not the linguistic environment.",
+            "B: No, language development is solely influenced by formal education and not by the linguistic environment.",
+            "C: No, our linguistic environment has no impact on language development as it is entirely genetically predetermined.",
+            "D: Yes, our linguistic environment, which includes factors such as the language(s) we are exposed to and the richness of that exposure, plays a crucial role in our language development."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is 'unconditional positive regard' in humanistic therapy?",
+        "options": [
+            "A: Unconditional positive regard is a technique where the therapist gives advice and directs the client on how to solve their problems, ensuring they feel supported.",
+            "B: Unconditional positive regard is a concept in humanistic therapy where the therapist accepts and values the client for who they are, without any conditions. This approval and affirmation creates a safe therapeutic environment that supports the client's self-exploration and self-acceptance.",
+            "C: Unconditional positive regard involves the therapist setting conditions that the client must meet to continue therapy, promoting responsibility and growth.",
+            "D: Unconditional positive regard is a process where the therapist critically evaluates the client's behavior and thoughts to enhance their self-awareness."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What role does personal growth play in humanistic psychology?",
+        "options": [
+            "A: Personal growth is considered a secondary concern in humanistic psychology, with the primary focus being on treating mental disorders.",
+            "B: Personal growth is viewed as largely influenced by external societal factors, with minimal emphasis on individual self-improvement in humanistic psychology.",
+            "C: Personal growth plays a central role in humanistic psychology, as the ultimate goal of human life is viewed as self-actualisation or fulfilling one's potential. Emphasising the continuous process of learning and growing, this approach fosters self-empowerment, creativity, and positive self-regard.",
+            "D: In humanistic psychology, personal growth is only relevant in the context of childhood development, and loses significance in adult life."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What are some of the potential risks of ignoring intersectionality within psychological practice?",
+        "options": [
+            "A: Ignoring intersectionality in psychological practice can result in excessive emphasis on individual therapy at the expense of community or group-based interventions.",
+            "B: Ignoring intersectionality increases the likelihood of psychologists adopting a one-size-fits-all approach that may inadvertently support stereotypes.",
+            "C: Lack of consideration of intersectionality can lead to over-emphasizing the cultural background of the client, potentially overshadowing other important aspects of their identity.",
+            "D: Ignoring intersectionality can lead to a simplistic and inaccurate understanding of clients' experiences of disadvantage and discrimination. Consequently, this might result in inadequate or harmful treatment plans. Ignoring intersectionality could also further alienate individuals from marginalised backgrounds, potentially causing them to disengage from psychological services."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is the significance of a social support network for individuals with ADHD?",
+        "options": [
+            "A: A social support network primarily provides financial assistance to individuals with ADHD, enabling better access to medical treatments and therapies.",
+            "B: A strong social support network provides emotional support to individuals with ADHD and helps them manage their symptoms. Support can come from family, friends, support groups, or healthcare providers.",
+            "C: Social support networks help individuals with ADHD by eliminating the need for professional medical interventions and therapies.",
+            "D: Having a social support network ensures that individuals with ADHD can achieve higher academic success and career advancement without specialized support or accommodations."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "How does an understanding of existentialism contribute to our grasp of human psychology?",
+        "options": [
+            "A: An understanding of existentialism leads to a focus on the biological aspects of human behavior, highlighting the roles of genetics and neuroscience.",
+            "B: Understanding existentialism can deepen our grasp of human psychology by introducing concepts of meaning, freedom, isolation, and mortality into the evaluation of human behaviour. This philosophical approach can facilitate an appreciation of the human condition's complexities and the innate desire to seek coherence and purpose in life.",
+            "C: Existentialism provides a structured and systematic approach to psychological assessment, emphasizing quantifiable and empirical data collection.",
+            "D: Understanding existentialism helps in simplifying psychological theories into more manageable constructs, stripping away complexities to focus solely on observable behaviors."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Can you compare the perspectives of Sandra Bem and John Money on gender identity?",
+        "options": [
+            "A: Sandra Bem argued that gender identity is fixed from birth, and John Money supported the idea that gender roles are adopted based on hormonal influences during adolescence.",
+            "B: Sandra Bem believed that gender identity is entirely determined by biological factors, whereas John Money emphasized the role of early childhood experiences and cultural influences in the development of gender identity.",
+            "C: John Money suggested that gender identity is primarily a result of genetic inheritance, while Sandra Bem focused on the influence of peer interactions and media on gender perception.",
+            "D: Sandra Bem proposed the Gender Schema Theory, highlighting how societal norms and expectations shape gender identities by internalising gender-related information. On the other hand, John Money adopted a more biopsychosocial view, arguing that gender identity is a concept that is fluid and greatly influenced by socialisation processes in conjunction with biological factors."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What were Mary Parker Follett's contributions to organisational psychology?",
+        "options": [
+            "A: Mary Parker Follett introduced the theory of scientific management, emphasizing efficiency and systematic control in organizations.",
+            "B: Mary Parker Follett formulated the transactional analysis theory, which analyzes the interactions and dynamics within an organization through parent, adult, and child ego states.",
+            "C: Mary Parker Follett is associated with integrative conflict resolution and participative decision making process. These principles champion the necessity of everyone's involvement and mutual respect in an organisation, emphasizing on collective power.",
+            "D: Mary Parker Follett developed the hierarchy of needs theory, focusing on the fulfillment of psychological and self-fulfillment needs in organizational settings."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What was the significance of the Landmark case Jenkins v. United States (1962) to forensic psychology?",
+        "options": [
+            "A: Jenkins v. United States established the requirement for all forensic psychologists to undergo additional certification before being allowed to testify in court.",
+            "B: The case determined that psychologists could not testify in court about mental illness, reinforcing the exclusivity of psychiatrists in this role.",
+            "C: The case of Jenkins v. United States in 1962 was landmark for forensic psychology. It marked the first time the courts formally recognised that psychologists were competent to give expert opinions on mental illness, setting a significant precedent for the role of psychologists in court.",
+            "D: The case was significant because it led to the development of the first ethical guidelines for psychologists practicing in the forensic field."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is Henri Tajfel's and John Turner's notable contribution to the field of group psychology?",
+        "options": [
+            "A: Henri Tajfel's and John Turner's major contribution to group psychology was the introduction of cognitive dissonance theory, which explores how people strive for internal consistency between their beliefs and behaviors.",
+            "B: Henri Tajfel's and John Turner's major contribution to group psychology was the development of social identity theory. It suggests that individuals derive part of their self-esteem and identity from their group memberships.",
+            "C: Henri Tajfel's and John Turner's major contribution to group psychology was the proposal of the bystander effect, which explains why individuals are less likely to offer help to a victim when other people are present.",
+            "D: Henri Tajfel's and John Turner's major contribution to group psychology was the formulation of the theory of planned behavior, which predicts how individuals will behave based on their attitudes, subjective norms, and perceived control over the behavior."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What does the optimism bias refer to?",
+        "options": [
+            "A: Optimism bias refers to the systematic tendency for individuals to be overly positive in estimating positive future outcomes. For example, people generally underestimate their likelihood of experiencing negative events, such as illness or divorce, and overestimate their longevity and success.",
+            "B: Optimism bias refers to the general expectation that people have about experiencing positive moods and emotions more frequently than negative ones.",
+            "C: Optimism bias refers to the cognitive bias where people accurately predict the likelihood of future events, without overestimating positive outcomes.",
+            "D: Optimism bias refers to the tendency for individuals to view negative events more favorably, believing they can learn and grow from them."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What was the fundamental result from Stanley Milgram's obedience experiments?",
+        "options": [
+            "A: The experiments concluded that individuals are less likely to follow orders when they can empathize with the person they are instructed to harm.",
+            "B: Stanley Milgram's obedience experiments demonstrated the powerful influence of authority and obedience in human behaviour. The majority of participants in these experiments were willing to administer potentially harmful electric shocks to others when instructed by an authority figure. This challenged previous assumptions about the limits of obedience and highlighted the role that situational factors can play in driving harmful actions.",
+            "C: Milgram's studies revealed that personal morality and ethical considerations predominantly guide human behavior even in the presence of authoritative commands.",
+            "D: Milgram's experiments primarily showed that people are inherently aggressive and will harm others when given the opportunity."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is androgen insensitivity syndrome?",
+        "options": [
+            "A: A condition where a lack of androgens in a genetic male leads to the development of female characteristics.",
+            "B: A genetic disorder where there is an overproduction of androgens causing a female to develop male characteristics.",
+            "C: A hormonal imbalance in which both male and female hormones are secreted in unusual patterns, causing ambiguous genitalia.",
+            "D: A condition in which androgens are secreted in utero, but a genetic defect leads to an absence of androgen receptors, so that a genetic male develops female genitalia."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is 'attachment motivation'?",
+        "options": [
+            "A: The innate reflex to respond defensively to a threat in the environment.",
+            "B: The drive to enhance self-esteem through achievement and recognition.",
+            "C: The desire for physical and psychological proximity to an attachment figure.",
+            "D: The intrinsic tendency to explore unfamiliar environments and learn new skills."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Define connectionism",
+        "options": [
+            "A: A theory in cognitive science that argues for a single, unified processing unit that handles all cognitive functions sequentially and linearly.",
+            "B: A model of human cognitive processes in which many cognitive processes occur simultaneously so that a representation is spread out (i.e. distributed) throughout a network of interacting processing units; also called parallel distributed processing (PDP).",
+            "C: A psychological theory that focuses on how individuals connect emotionally and intellectually in social settings, emphasizing interpersonal relationships.",
+            "D: A cognitive framework suggesting that mental processes follow a strict, step-by-step sequence of operations, each occurring in a specific part of the brain."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What are cross-cultural validation studies?",
+        "options": [
+            "A: Research that compares psychological outcomes across different socioeconomic groups within the same culture.",
+            "B: Investigations into the historical development of psychological theories within a single culture.",
+            "C: Research that examines whether a psychological variable in one culture can be applied and have meaning in another culture.",
+            "D: Studies that focus exclusively on identifying universal psychological variables across all cultures."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is the peripheral nervous system'?",
+        "options": [
+            "A: A network of glands that produces and secretes hormones directly into the circulatory system to regulate the body's growth, metabolism, and sexual development.",
+            "B: A region of the brain that coordinates voluntary movements, balance, and posture, primarily involving the cerebellum and motor cortex.",
+            "C: A component of the nervous system that includes neurons that travel to and from the central nervous system; includes the somatic nervous system and the autonomic nervous system.",
+            "D: The system responsible for the brain's processing of memory, emotions, and decision-making, consisting of the hippocampus, amygdala, and prefrontal cortex."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Evaluate the usefulness of the biological model.",
+        "options": [
+            "A: The biological model has largely been discredited due to its inability to provide any useful predictions or treatments for mental illness.",
+            "B: The biological model has been instrumental in the development of effective medications and has demystified mental illness to some extent. However, it can be reductionist and overlook the roles of psychological and social factors.",
+            "C: The biological model fully accounts for the complexities of mental disorders by integrating psychological, social, and environmental factors.",
+            "D: The biological model is primarily useful for classifying mental disorders based on behavioral symptoms rather than biological bases."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the difference between a positive reinforcement and a negative reinforcement?",
+        "options": [
+            "A: Positive reinforcement is used to decrease undesirable behaviors by adding a pleasant stimulus, while negative reinforcement is used to decrease behaviors by removing an unpleasant stimulus.",
+            "B: Positive reinforcement involves the presentation of a positive stimulus to increase the likelihood of a behaviour while negative reinforcement involves the removal of an unpleasant stimulus to increase behaviour. Positive and negative reinforcement is an important philosophical principle of applied behaviour analysis and explains how to modify human and pet behaviour by using rewards, punishments, and operant conditioning.",
+            "C: Positive reinforcement involves giving a reward after a specific behavior, while negative reinforcement involves giving a punishment after a specific behavior.",
+            "D: Positive reinforcement increases the likelihood of a behavior by introducing a negative condition, whereas negative reinforcement increases the likelihood by removing a positive condition."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What are the five stages of grief according to K\u00fcbler-Ross?",
+        "options": [
+            "A: The five stages are shock, anger, denial, bargaining, and acceptance.",
+            "B: The five stages are anxiety, denial, bargaining, grief, and resolution.",
+            "C: The five stages are denial, anger, bargaining, depression, and acceptance. Understanding the stages of grief can help people who experience grief cope with loss.",
+            "D: The five stages are denial, confusion, anger, depression, and hope."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is a personality disorder?",
+        "options": [
+            "A: A personality disorder is a biological condition that affects the brain's neurochemistry and leads to occasional mood swings.",
+            "B: A personality disorder is a temporary psychological state that primarily affects mood and emotions but not long-term behavior.",
+            "C: A personality disorder is a type of acute mental disturbance characterized by brief episodes of emotional instability.",
+            "D: A personality disorder is a mental illness characterised by rigid and unhealthy patterns of thinking, feeling, and behaving. Personality disorders are long-standing and affect a person's functioning in various areas of their life, including work, social relationships, and personal life."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is group therapy?",
+        "options": [
+            "A: Group therapy is a self-organized meeting of individuals who share common problems, without the guidance of a professional therapist.",
+            "B: Group therapy is a technique where an individual receives counseling from multiple therapists at once to gain different perspectives on their issues.",
+            "C: Group therapy is a form of psychotherapy where a group of individuals meet with a mental health professional to discuss specific issues and learn coping strategies from one another. Group therapy is an effective approach to treating personality disorders as it allows individuals to practice interpersonal skills in a safe environment and provides a sense of community.",
+            "D: Group therapy involves a group of therapists working together to solve complex mental health cases, using a variety of therapeutic techniques."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is bipolar disorder?",
+        "options": [
+            "A: Bipolar disorder is a neurological condition that primarily affects cognitive functions such as memory and attention, with periodic emotional disturbances.",
+            "B: Bipolar disorder is a chronic illness characterized by persistent feelings of sadness, despair, and hopelessness without periods of elevated mood.",
+            "C: Bipolar disorder is a mood disorder characterized by cycling episodes of mania and depression. People with bipolar disorder experience intense and disruptive shifts in mood, energy, and activity levels, which can significantly impair daily functioning. Treatment typically involves pharmacotherapy and psychotherapy.",
+            "D: Bipolar disorder is a personality disorder that leads to severe mood swings from extreme happiness to intense irritability without the depressive phase."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is schizophrenia?",
+        "options": [
+            "A: Schizophrenia is a chronic and severe neurological disorder that affects how a person thinks, feels, and behaves. People with schizophrenia may experience delusions, hallucinations, disorganized speech and behavior, and social withdrawal. Treatment often involves a combination of medication and psychosocial interventions.",
+            "B: Schizophrenia is a personality disorder characterized by persistent mood swings and impulsive behavior.",
+            "C: Schizophrenia is a cognitive disorder that primarily affects memory and the ability to perform complex tasks.",
+            "D: Schizophrenia is a developmental disorder that leads to difficulties in social interaction and communication from a young age."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is obsessive-compulsive disorder (OCD)?",
+        "options": [
+            "A: OCD is a disorder characterized by persistent, unwanted, and distressing thoughts or urges (obsessions) and repetitive, sometimes ritualized behaviors or mental acts (compulsions). People with OCD may also experience anxiety and depression. Treatment options include therapy (such as Cognitive Behavioral Therapy) and medication (such as Selective Serotonin Reuptake Inhibitors).",
+            "B: OCD is a disorder where individuals have frequent, uncontrollable bouts of laughter and crying, reflecting a struggle with emotional regulation. Common treatments include mood stabilizers and psychotherapy.",
+            "C: OCD is characterized by excessive worry about real-life concerns, which is usually disproportionate to the events. People often use coping strategies such as avoidance and reassurance seeking, and treatments include anxiety medication and psychotherapy.",
+            "D: OCD is primarily a mood disorder that involves long periods of emotional highs and debilitating lows, with individuals frequently engaging in impulsive actions. Standard treatments are mood stabilizers and counseling."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is major depressive disorder?",
+        "options": [
+            "A: Major depressive disorder is a common mood disorder characterized by persistent feelings of sadness, hopelessness, and a loss of interest in activities. People with depression may also experience changes in appetite, sleep patterns, energy levels, and concentration. Treatment options typically involve medication, psychotherapy, or a combination of both.",
+            "B: Major depressive disorder is an anxiety disorder that causes intense, excessive, and persistent worry and fear about everyday situations.",
+            "C: Major depressive disorder is a personality disorder characterized by unstable moods, behavior, and relationships.",
+            "D: Major depressive disorder is primarily a neurological disorder affecting motor skills and physical coordination, often accompanied by mood swings."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is post-traumatic stress disorder (PTSD)?",
+        "options": [
+            "A: PTSD is a psychological condition where an individual deliberately recalls traumatic events, often using these memories to improve their coping mechanisms.",
+            "B: PTSD is a disorder that can develop after someone experiences or witnesses a traumatic event. Symptoms of PTSD may include flashbacks, nightmares, avoidance of triggers, and hypervigilance. Treatment for PTSD often involves therapy (such as Cognitive Processing Therapy or Prolonged Exposure) and sometimes medication.",
+            "C: PTSD is a chronic illness characterized by physical symptoms like headaches and fatigue, directly caused by genetic factors rather than traumatic experiences.",
+            "D: PTSD is an anxiety disorder that only occurs immediately after experiencing a traumatic event, typically resolving on its own within a few days."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What are the symptoms of borderline personality disorder?",
+        "options": [
+            "A: Symptoms include excessive optimism, increased energy, reduced need for sleep, and grandiosity.",
+            "B: People with borderline personality disorder may experience intense and unstable emotions, impulsivity, unstable relationships, a distorted self-image, and self-destructive behavior. Treatment for borderline personality disorder often involves psychotherapy (such as Dialectical Behavior Therapy) and medication.",
+            "C: The main symptoms are persistent feelings of sadness, withdrawal from social interaction, and lack of interest in activities once enjoyed.",
+            "D: People with this disorder primarily exhibit forgetfulness, lack of concentration, and frequent daydreaming."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is general anxiety disorder (GAD)?",
+        "options": [
+            "A: GAD is a common anxiety disorder characterized by excessive and persistent worry about everyday events and activities. People with GAD may also experience physical symptoms such as muscle tension, restlessness, and increased heart rate. Treatment options for GAD include medication and therapy (such as Cognitive Behavioral Therapy).",
+            "B: GAD is primarily a mood disorder that causes dramatic shifts in a person\u2019s energy and mood, leading to periods of depression and elevated mood.",
+            "C: GAD is a condition marked by short bursts of overwhelming fear or discomfort, often with no clear trigger, and typically lasting just a few minutes.",
+            "D: GAD is a rare psychological condition where individuals experience brief episodes of intense fear accompanied by physical symptoms like sweating and palpitations."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is attention-deficit/hyperactivity disorder (ADHD)?",
+        "options": [
+            "A: ADHD is a neurodevelopmental disorder characterized by symptoms of inattention, hyperactivity, and impulsivity. People with ADHD may also experience difficulties with organization, time management, and emotional regulation. Treatment for ADHD often involves medication and behavioral therapy.",
+            "B: ADHD is a type of personality disorder that involves enduring patterns of behavior that significantly impair social and occupational functioning.",
+            "C: ADHD is a learning disability that primarily affects reading and writing skills, and is often treated with specialized educational plans.",
+            "D: ADHD is a psychological condition marked by severe mood swings and emotional responses, commonly managed with psychotherapy and mood stabilizers."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is anorexia nervosa?",
+        "options": [
+            "A: Anorexia nervosa is a sleep disorder that disrupts regular eating patterns, causing individuals to eat excessively at night and fast during the day, leading to nutritional deficiencies and weight imbalance.",
+            "B: Anorexia nervosa is a psychological disorder where individuals have an excessive desire to eat, leading to rapid weight gain and often associated with guilt and self-rejection.",
+            "C: Anorexia nervosa is an eating disorder characterized by a persistent restriction of food intake and an intense fear of gaining weight. People with anorexia may also experience distorted body perception, a preoccupation with weight and food, and physical symptoms such as fatigue and hair loss. Treatment for anorexia includes nutritional rehabilitation, psychotherapy, and medication.",
+            "D: Anorexia nervosa is a metabolic condition characterized by a sudden and severe decrease in the body's ability to process sugars, often leading to extreme weight loss and energy deficiency."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is bulimia nervosa?",
+        "options": [
+            "A: Bulimia nervosa is an anxiety disorder where individuals have an intense fear of gaining weight, typically resulting in severe restriction of food intake and excessive exercise.",
+            "B: Bulimia nervosa is a condition marked by severe mood swings and emotional instability, often resulting in changes in eating and sleeping patterns.",
+            "C: Bulimia nervosa is an eating disorder characterized by repeated episodes of binge eating followed by purging (such as vomiting, laxative use, or excessive exercise). People with bulimia may also experience anxiety, depression, and concerns about body weight. Treatment for bulimia typically involves psychotherapy, sometimes medication, and nutritional rehabilitation.",
+            "D: Bulimia nervosa is a psychological disorder characterized by extreme overeating without any compensatory behaviors, often leading to rapid weight gain."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is body dysmorphic disorder?",
+        "options": [
+            "A: Body dysmorphic disorder is primarily concerned with a person\u2019s fear of gaining weight, leading to restricted eating and significant weight loss.",
+            "B: Body dysmorphic disorder is a condition where an individual has an exaggerated sense of physical fitness and athleticism, often engaging in excessive exercise and diet control.",
+            "C: Body dysmorphic disorder is a disorder where individuals believe their body size or shape is constantly changing, causing significant distress and confusion.",
+            "D: Body dysmorphic disorder is a disorder characterized by a preoccupation with one or more perceived defects or flaws in one's appearance. People with body dysmorphic disorder may excessively check their appearance, avoid social activities, or seek cosmetic procedures. Treatment typically involves therapy (such as Cognitive Behavioral Therapy) and sometimes medication."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is paranoid personality disorder?",
+        "options": [
+            "A: Paranoid personality disorder is a cognitive disorder that primarily affects memory, causing individuals to forget faces or believe that new faces are familiar, resulting in paranoia.",
+            "B: Paranoid personality disorder is a mood disorder that causes people to experience intense episodes of paranoia followed by periods of extreme depression.",
+            "C: Paranoid personality disorder is a personality disorder characterized by mistrust, suspicion, and a pervasive sense of being persecuted. People with paranoid personality disorder may have difficulty trusting others, may read hidden meanings into benign remarks, and may hold grudges. Treatment for paranoid personality disorder typically involves psychotherapy, and medications like an antipsychotic may be used.",
+            "D: Paranoid personality disorder is a type of anxiety disorder where individuals feel overwhelming fear and anxiety about being harmed by others, leading to panic attacks."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is antisocial personality disorder (ASPD)?",
+        "options": [
+            "A: ASPD is a condition where individuals experience excessive anxiety in social situations, often leading to significant avoidance behaviors to reduce distress.",
+            "B: ASPD is a personality disorder characterized by a disregard for the rights of others, and a lack of empathy or guilt. People with ASPD may engage in criminal behavior, manipulation, and aggression towards others. Treatment for ASPD is generally difficult, as individuals may not seek or comply with treatment.",
+            "C: ASPD is a personality disorder primarily marked by extreme social withdrawal and sensitivity to rejection, often leading to a solitary lifestyle.",
+            "D: ASPD is a disorder characterized by persistent mood swings, impulsive actions, and intense emotional reactions that disrupt daily functioning."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is narcissistic personality disorder?",
+        "options": [
+            "A: Narcissistic personality disorder is primarily characterized by extreme introversion, social withdrawal, and sensitivity to rejection.",
+            "B: Narcissistic personality disorder is a personality disorder characterized by a grandiose sense of self-importance, a lack of empathy, and an excessive need for admiration. People with this condition may have difficulty forming and maintaining relationships, and may devalue others who do not meet their standards. Treatment for narcissistic personality disorder typically involves psychotherapy.",
+            "C: Narcissistic personality disorder is a cognitive disorder that involves severe memory impairments and disorganized thinking, often leading to significant distress.",
+            "D: Narcissistic personality disorder is a mood disorder that causes dramatic emotional swings between depression and elevated moods or energy."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is avoidant personality disorder?",
+        "options": [
+            "A: Avoidant personality disorder involves intense, unstable emotions and distorted self-image, typically manifesting as rapid changes in mood and impulsive actions.",
+            "B: Avoidant personality disorder is primarily characterized by extreme attention to detail and perfectionism, often leading to significant distress and impairment in daily functioning.",
+            "C: Avoidant personality disorder is a personality disorder characterized by a pervasive pattern of social inhibition, and a fear of rejection or criticism. People with this condition may avoid social activities, may have difficulty making friends or initiating relationships, and may feel inadequate or inferior. Treatment for avoidant personality disorder typically involves psychotherapy (such as Cognitive Behavioral Therapy).",
+            "D: Avoidant personality disorder is a condition marked by persistent low mood, loss of interest in activities, and a significant reduction in energy levels, often requiring medication."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is dependent personality disorder?",
+        "options": [
+            "A: Dependent personality disorder is a personality disorder characterized by a pervasive pattern of submissive or clingy behavior, and a fear of separation or abandonment. People with this condition may be overly reliant on others, may have difficulty making decisions without reassurance or support from others, and may tolerate poor treatment to avoid abandonment. Treatment for dependent personality disorder typically involves psychotherapy (such as Cognitive Behavioral Therapy).",
+            "B: Dependent personality disorder involves a chronic feeling of detachment from social and emotional relationships, along with a restricted range of emotional expressions.",
+            "C: Dependent personality disorder is primarily characterized by intense and inappropriate anger, difficulty controlling emotions, and unstable interpersonal relationships.",
+            "D: Dependent personality disorder is marked by a persistent disregard for and violation of the rights of others, including deceitfulness, impulsivity, and lack of remorse."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is borderline intellectual functioning?",
+        "options": [
+            "A: Borderline intellectual functioning is a condition marked by IQ scores below 70, often requiring specialized care and support.",
+            "B: Borderline intellectual functioning describes individuals with IQ scores between 85-100, typically needing minimal educational adjustments.",
+            "C: Borderline intellectual functioning refers to individuals who have IQ scores between 70-85, and may experience difficulties in academics and social adjustment. Borderline intellectual functioning is not considered an intellectual disability, but may benefit from targeted educational and social interventions.",
+            "D: Borderline intellectual functioning is a diagnostic label for high intellectual ability, characterized by IQ scores from 115-130, and often linked to social and emotional challenges."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is delusional disorder?",
+        "options": [
+            "A: Delusional disorder is a psychotic disorder characterized by the presence of a single delusion or several related delusions. People with delusional disorder may believe that they have special powers, are being pursued, or that they have a medical condition that no one else believes they have. Treatment for delusional disorder often involves antipsychotic medication and psychotherapy.",
+            "B: Delusional disorder is primarily characterized by severe memory loss and confusion, often mistaken for dementia in elderly populations.",
+            "C: Delusional disorder is a mood disorder that causes intense emotional disturbances and periods of profound depression or elevated mood.",
+            "D: Delusional disorder is defined by excessive fear and anxiety, leading to significant social and occupational impairment."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is oppositional defiant disorder (ODD)?",
+        "options": [
+            "A: ODD is an adult psychological condition marked by extreme distrust and suspicion towards others, often without sufficient basis.",
+            "B: ODD is a mood disorder characterized by alternating periods of extreme happiness and severe depression.",
+            "C: ODD is a childhood disorder characterized by a persistent pattern of disobedience, defiance, and lack of respect for authority figures. Children with ODD may argue with adults, refuse to follow rules, and deliberately annoy others. Treatment for ODD typically involves behavioral interventions and parent training.",
+            "D: ODD is a developmental disorder where children experience significant difficulties in social interaction and communication, often accompanied by repetitive behaviors."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is selective mutism?",
+        "options": [
+            "A: Selective mutism is a speech disorder that includes stuttering and the inability to pronounce words correctly, usually due to neurological problems.",
+            "B: Selective mutism is a behavioral condition characterized by the child's refusal to obey commands and communicate in any form, stemming from oppositional attitudes.",
+            "C: Selective mutism is an anxiety disorder characterized by a persistent failure to speak in specific social situations. Children with selective mutism may speak in some situations, but not in others (such as in school or around strangers). Treatment for selective mutism typically involves psychotherapy and sometimes medication.",
+            "D: Selective mutism is a developmental disorder where a child cannot learn or use language effectively due to a lack of intellectual capacity."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is 'self-determination theory' in psychology?",
+        "options": [
+            "A: Self-determination theory focuses on the stages of cognitive development and how they influence personality formation.",
+            "B: Self-determination theory argues that motivation is primarily driven by external rewards and punishments.",
+            "C: Self-determination theory is a behavioral therapy that emphasizes systematic desensitization to reduce phobias.",
+            "D: Self-determination theory proposes that individual motivation is influenced by the need for autonomy, competence, and relatedness."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is the potential impact of advancements in criminal psychology on the criminal justice system?",
+        "options": [
+            "A: Advancements in criminal psychology may complicate the criminal justice system by introducing too many theoretical perspectives that create conflict among legal professionals.",
+            "B: Criminal psychology advancements could potentially lead courts to rely excessively on psychological profiling, undermining the importance of factual evidence and witness testimony.",
+            "C: Advancements in criminal psychology have the potential to transform the criminal justice system. A deeper understanding of criminal behavior and the underlying psychological factors can lead to more effective crime prevention strategies, investigative techniques, and intervention programs. Evidence-based practices derived from research can enhance decision-making processes, ensuring fair and equitable treatment for offenders. Advancements in risk assessment and profiling techniques have the potential to enhance public safety by accurately identifying and managing individuals who pose a significant risk. Moreover, advancements in interdisciplinary collaboration can foster greater collaboration between researchers, practitioners, and policymakers, leading to more informed and evidence-driven criminal justice policies. In summary, advancements in criminal psychology can contribute to a more efficient, fair, and evidence-based criminal justice system.",
+            "D: While advancements in criminal psychology can offer insights, they might also lead to an overemphasis on rehabilitation, potentially neglecting the importance of deterrence and punishment in the justice process."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is the role of hypotheses in the interpretation of findings in psychosurgery research?",
+        "options": [
+            "A: Hypotheses are typically formed after the data in psychosurgery research have been analyzed to ensure they fit the findings.",
+            "B: Hypotheses play a crucial role in the interpretation of findings in psychosurgery research. Firstly, hypotheses provide a framework for interpreting the results obtained from the research. By comparing the findings with the formulated hypotheses, researchers can assess whether their predictions were supported or not. This helps to determine the validity and reliability of the hypotheses and provides evidence for or against the proposed relationship or effect. Secondly, hypotheses guide the discussion and explanation of the findings, allowing researchers to provide a theoretical or empirical rationale for the observed outcomes. By linking the findings back to the underlying hypotheses, researchers can explain how their research fits into the body of scientific literature.",
+            "C: The role of hypotheses in psychosurgery research is limited to the initial proposal stage and does not impact the interpretation of the results.",
+            "D: In psychosurgery research, hypotheses are used mainly to fulfill funding requirements but do not significantly influence the interpretation of findings."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Who proposed the theory of stereotype threat and what does it explain?",
+        "options": [
+            "A: Philip Zimbardo, a psychologist known for the Stanford prison experiment, proposed the theory of stereotype threat which outlines how roles and stereotypes can impact behavior under stress.",
+            "B: Albert Bandura, known for social learning theory, proposed the theory of stereotype threat which describes how people model behaviors based on observed stereotypes.",
+            "C: Claude Steele, an American social psychologist, proposed the theory of stereotype threat. The theory explains how individuals' performance can be influenced by awareness of a negative stereotype of a demographic group to which they belong.",
+            "D: Solomon Asch, famous for conformity experiments, proposed the theory of stereotype threat which shows how peer pressure can cause individuals to perform in line with stereotypes."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "How can gratitude meditation improve relationships?",
+        "options": [
+            "A: Gratitude meditation reduces personal expectations from others, leading to fewer disappointments in relationships.",
+            "B: Gratitude meditation enhances one's ability to solve conflicts by providing clearer solutions to interpersonal issues.",
+            "C: Gratitude meditation primarily increases personal happiness and self-esteem, which indirectly affects relationships.",
+            "D: Gratitude meditation encourages individuals to acknowledge and express gratitude toward others. This practice fosters a sense of appreciation, empathy, and warmth, which can enhance interpersonal relationships. By focusing on gratitude, individuals may become more supportive, compassionate, and attentive to others."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is the Medical Model of Disability?",
+        "options": [
+            "A: The Medical Model of Disability is a perspective that promotes the empowerment of disabled individuals through personal development and education.",
+            "B: The Medical Model of Disability is a theoretical framework which views disability as a medical problem that requires treatment and cure.",
+            "C: The Medical Model of Disability is a social construct that emphasizes societal barriers as the main issue to be addressed.",
+            "D: The Medical Model of Disability is a legal framework that focuses on providing equal rights and accessibilities for disabled people."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the difference between a 'good death' and a 'bad death'?",
+        "options": [
+            "A: A 'good death' is determined by the age at which an individual dies, while a 'bad death' refers to dying at a young age.",
+            "B: A 'good death' refers to an end-of-life experience that is peaceful, dignified, and in line with the individual's values and wishes, while a 'bad death' is experienced as chaotic, painful, or not in line with the individual's values and wishes.",
+            "C: A 'good death' involves a lack of awareness about impending death, providing peace, while a 'bad death' involves full awareness and emotional distress.",
+            "D: A 'good death' is when someone passes away unexpectedly but painlessly, whereas a 'bad death' occurs after a long, drawn-out illness."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the difference between libido and thanatos?",
+        "options": [
+            "A: Libido is the unconscious desire for self-preservation, whereas thanatos is the conscious desire for risk-taking.",
+            "B: Libido is the desire for all pleasurable experiences, while thanatos is specifically the desire for aggressive experiences.",
+            "C: Libido refers to the energy created by the life force, while thanatos is the energy created by the death force.",
+            "D: Libido involves the manifestation of emotional connections, while thanatos refers to the disengagement from social relationships."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "According to the Theory of Planned Behaviour, what is the difference between subjective norms and social norms?",
+        "options": [
+            "A: Subjective norms involve the individual's own beliefs about what behaviors are appropriate, while social norms relate to the behaviors that society enforces legally.",
+            "B: Social norms are the expectations held by an individual's close social group, whereas subjective norms are the broader societal pressures perceived by the individual.",
+            "C: Subjective norms are based on universal ethical principles, while social norms are adapted from the individual\u2019s perception of societal values.",
+            "D: Social norms refer to general societal beliefs about behaviour, while subjective norms are the individual's perceived expectations of what important others believe they should do."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "According to the Self-Determination Theory, what is the difference between intrinsic and extrinsic motivation?",
+        "options": [
+            "A: Intrinsic motivation is driven by internal factors, such as personal interest or enjoyment, while extrinsic motivation is driven by external factors, such as rewards or recognition.",
+            "B: Intrinsic motivation concerns achieving goals for personal recognition, while extrinsic motivation concerns meeting goals for personal growth and fulfillment.",
+            "C: Intrinsic motivation is driven by the desire to avoid punishment, while extrinsic motivation is driven by the desire to achieve personal satisfaction.",
+            "D: Intrinsic motivation is influenced by social pressures, while extrinsic motivation is influenced by personal values and beliefs."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is the 'what is beautiful is good' stereotype?",
+        "options": [
+            "A: The 'what is beautiful is good' stereotype refers to the tendency to attribute positive qualities to people solely based on their physical appearance.",
+            "B: The 'what is beautiful is good' stereotype involves the belief that attractive products are typically of higher quality.",
+            "C: The 'what is beautiful is good' stereotype suggests that people naturally prefer environments that are aesthetically pleasing.",
+            "D: The 'what is beautiful is good' stereotype asserts that physical attractiveness correlates with higher intelligence."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "According to Abraham Maslow, what is the highest level of the hierarchy of needs?",
+        "options": [
+            "A: Self-esteem",
+            "B: Safety",
+            "C: Self-actualization.",
+            "D: Belongingness"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "According to the fetal programming hypothesis, how can exposure to certain teratogens during prenatal development affect long-term health outcomes?",
+        "options": [
+            "A: By accelerating developmental milestones in early childhood.",
+            "B: By 'programming' physiological systems and potentially increasing the risk of diseases later in life.",
+            "C: By enhancing the immune response to prevent future diseases.",
+            "D: By improving cognitive abilities and emotional resilience."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the significance of the 'zone of proximal development' in educational psychology?",
+        "options": [
+            "A: The 'zone of proximal development' is a measurement tool that psychologists use to quantify a child's cognitive development compared to peers.",
+            "B: The 'zone of proximal development' represents the range of tasks that a student can perform without any help or guidance, emphasizing independent problem-solving skills.",
+            "C: The 'zone of proximal development' (ZPD) is a concept introduced by Lev Vygotsky in educational psychology. It refers to the gap between a student's current level of performance and the higher level of performance they can achieve with support. The ZPD is seen as an essential area for learning, as it represents tasks that a student can't perform independently but can accomplish with assistance from a teacher or more capable peer. Scaffolding, which involves providing temporary support and gradually reducing it, is a critical teaching strategy utilized within the ZPD to facilitate learning and promote student development.",
+            "D: The 'zone of proximal development' describes the psychological space where learners feel most comfortable, thus it is used primarily to maintain a stable emotional state in educational settings."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What are the implications of the 'nature vs. nurture' debate in educational psychology?",
+        "options": [
+            "A: The 'nature vs. nurture' debate in educational psychology primarily focuses on proving that genetic inheritance is more influential than environmental factors in a student's academic success.",
+            "B: The debate suggests that nature and nurture operate independently in educational settings, with each factor contributing in a fixed manner to the development of cognitive and social skills in students.",
+            "C: The 'nature vs. nurture' debate in educational psychology explores the relative contributions of genetic factors (nature) and environmental influences (nurture) to human development and learning. While there is recognition that both nature and nurture play significant roles, this debate has implications for understanding individual differences, designing effective interventions, and promoting inclusive education. It highlights the need for considering students' diverse backgrounds, characteristics, and learning styles. Contemporary perspectives acknowledge the interaction between nature and nurture, emphasizing the importance of creating supportive environments that allow all students to reach their full potential.",
+            "D: In educational psychology, the 'nature vs. nurture' debate is only concerned with how environmental factors like schooling and family background can completely shape a student's abilities and potential."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is the importance of the 'here and now' concept in Gestalt therapy?",
+        "options": [
+            "A: The 'here and now' concept in Gestalt therapy is primarily focused on planning future actions and setting long-term goals for clients.",
+            "B: The 'here and now' concept in Gestalt therapy emphasizes the present moment and focuses on the individual's awareness of their thoughts, feelings, sensations, and behaviors occurring in the present. This helps to enhance self-awareness and promote personal growth.",
+            "C: The 'here and now' concept in Gestalt therapy emphasizes the therapist's interpretations and understanding of the client's past experiences.",
+            "D: The 'here and now' concept in Gestalt therapy refers to revisiting past experiences in detail to resolve unresolved issues."
+        ],
+        "answer": "B"
+    },
+        {
+        "question": "According to the Social Cognitive Theory, what is the role of self-monitoring in behaviour change?",
+        "options": [
+            "A: Self-monitoring refers to the internal judgment against personal standards and the emotional reactions that result from it.",
+            "B: Self-monitoring is primarily about receiving feedback from peers, which motivates behavior change.",
+            "C: Self-monitoring focuses on observing and mimicking the behaviors of others to change one's own behavior.",
+            "D: Self-monitoring involves tracking and recording one's own behaviour, which can increase awareness of current behaviour and progress towards goals."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is the role of the dorsolateral prefrontal cortex in executive functions?",
+        "options": [
+            "A: The dorsolateral prefrontal cortex (DLPFC) is a region of the prefrontal cortex involved in higher-level executive functions. It plays a crucial role in working memory, cognitive flexibility, attentional control, and decision making. The DLPFC helps us maintain and manipulate information in memory, switch between tasks or cognitive sets, inhibit unwanted responses, and plan and execute complex behaviors. Dysfunction or damage to the DLPFC can result in deficits in executive functions, such as difficulties with problem-solving, impulse control, and cognitive flexibility.",
+            "B: The dorsolateral prefrontal cortex focuses on motor coordination, helping to control and execute physical movements.",
+            "C: The dorsolateral prefrontal cortex is mainly responsible for sensory perception, particularly in processing auditory and visual stimuli.",
+            "D: The dorsolateral prefrontal cortex primarily manages emotional responses and mood regulation, integrating feelings with cognitive processes."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is the potential role of self-reflection and self-exploration in addressing desire discrepancy and sexual dysfunctions?",
+        "options": [
+            "A: Self-reflection and self-exploration mainly serve to distance partners by focusing on individual needs and preferences, which could potentially exacerbate desire discrepancies.",
+            "B: Self-reflection and self-exploration play a significant role in addressing desire discrepancy and sexual dysfunctions. By engaging in self-reflection, individuals can gain insights into their own desires, inhibitions, and beliefs about sex. This self-awareness enhances communication with their partner and promotes a deeper understanding of one's own needs and boundaries. Self-exploration involves exploring one's own body, fantasies, and preferences. It can help individuals overcome inhibitions and discover new ways to experience pleasure and intimacy. By engaging in self-reflection and self-exploration, individuals can take an active role in finding ways to address desire discrepancy and improve sexual satisfaction within the relationship.",
+            "C: Self-reflection and self-exploration primarily focus on identifying medical or biological causes for sexual dysfunctions, which can then be treated through pharmacological interventions.",
+            "D: Self-reflection and self-exploration encourage individuals to rely solely on professional therapy for improving sexual dysfunctions and desire discrepancies, minimizing the role of personal insight."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the difference between a positive reinforcement and a negative reinforcement?",
+        "options": [
+            "A: Positive reinforcement involves the presentation of a positive stimulus to increase the likelihood of a behaviour while negative reinforcement involves the removal of an unpleasant stimulus to increase behaviour. Positive and negative reinforcement is an important philosophical principle of applied behaviour analysis and explains how to modify human and pet behaviour by using rewards, punishments, and operant conditioning.",
+            "B: Positive reinforcement is used to stop unwanted behaviors by adding a pleasant stimulus, while negative reinforcement stops unwanted behaviors by removing an unpleasant stimulus.",
+            "C: Positive reinforcement decreases a behavior by introducing a desirable stimulus, whereas negative reinforcement decreases a behavior by removing an undesirable stimulus.",
+            "D: Positive reinforcement involves giving a reward after a specific behavior, while negative reinforcement involves giving a punishment after a specific behavior."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is anorexia nervosa?",
+        "options": [
+            "A: Anorexia nervosa is an eating disorder characterized by a persistent restriction of food intake and an intense fear of gaining weight. People with anorexia may also experience distorted body perception, a preoccupation with weight and food, and physical symptoms such as fatigue and hair loss. Treatment for anorexia includes nutritional rehabilitation, psychotherapy, and medication.",
+            "B: Anorexia nervosa is a psychological condition where individuals have an excessive desire to eat, often leading to obesity and related health issues.",
+            "C: Anorexia nervosa is a sleep disorder characterized by interruptions of breathing during sleep, often resulting in daytime fatigue and severe health problems.",
+            "D: Anorexia nervosa is a chronic disease involving the nervous system, characterized by tremors, impaired motor function, and cognitive decline."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is body dysmorphic disorder?",
+        "options": [
+            "A: Body dysmorphic disorder is a disorder characterized by a preoccupation with one or more perceived defects or flaws in one's appearance. People with body dysmorphic disorder may excessively check their appearance, avoid social activities, or seek cosmetic procedures. Treatment typically involves therapy (such as Cognitive Behavioral Therapy) and sometimes medication.",
+            "B: Body dysmorphic disorder is primarily characterized by chronic somatic symptoms without an underlying physical cause, leading to significant distress and impairment.",
+            "C: Body dysmorphic disorder involves experiencing severe anxiety and discomfort in crowded spaces, often leading to avoidance of public places and social gatherings.",
+            "D: Body dysmorphic disorder is a disorder where individuals have an intense fear of gaining weight and engage in excessive dieting and physical exercise."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is narcissistic personality disorder?",
+        "options": [
+            "A: Narcissistic personality disorder is a mood disorder that involves long periods of extreme sadness followed by episodes of excessively elevated mood or irritability.",
+            "B: Narcissistic personality disorder is a condition marked by persistent inattention, hyperactivity, and impulsivity, often leading to difficulties in academic and occupational performance.",
+            "C: Narcissistic personality disorder is primarily characterized by severe social anxiety, avoidance of social situations, and a strong fear of being judged by others.",
+            "D: Narcissistic personality disorder is a personality disorder characterized by a grandiose sense of self-importance, a lack of empathy, and an excessive need for admiration. People with this condition may have difficulty forming and maintaining relationships, and may devalue others who do not meet their standards. Treatment for narcissistic personality disorder typically involves psychotherapy."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is selective mutism?",
+        "options": [
+            "A: Selective mutism is a behavioral condition characterized by a child's intentional refusal to speak in certain settings as a form of rebellion or attention-seeking behavior.",
+            "B: Selective mutism is an anxiety disorder characterized by a persistent failure to speak in specific social situations. Children with selective mutism may speak in some situations, but not in others (such as in school or around strangers). Treatment for selective mutism typically involves psychotherapy and sometimes medication.",
+            "C: Selective mutism is a developmental disorder where children are unable to develop language skills at a normal pace, leading to periods of silence in social situations.",
+            "D: Selective mutism is a cognitive disorder that involves the loss of speech due to brain damage, typically manifesting differently across various social environments."
+        ],
+        "answer": "B"
+    }
+]
